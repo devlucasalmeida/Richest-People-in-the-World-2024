@@ -31,5 +31,4 @@ Os dados podem ser visualizados de três maneiras:
 ## Vídeo de Demonstração:
 Para uma demonstração das funcionalidades, assista ao vídeo abaixo:
 
-[![Video mostrando os detalhes](https://drive.google.com/file/d/1bo3tzcVFb0TTy87D0Q7Uiz5qlifto69f/view?usp=drive_link)](https://youtu.be/Uej1L3YST8Y)
-
+[![Video demonstração](https://img.youtube.com/vi/Uej1L3YST8Y/0.jpg)](https://www.youtube.com/watch?v=Uej1L3YST8Y)
